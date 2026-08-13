@@ -1,8 +1,6 @@
 <h1>Welcome to My Github Account!</h1>
 
-![counter](https://en82zzdykb6ji7x.m.pipedream.net)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=abhijeetpawar1234&color=blueviolet&style=flat-square)](https://github.com/abhijeetpawar1234)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-191717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
