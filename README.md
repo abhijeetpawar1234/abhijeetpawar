@@ -1,6 +1,8 @@
 <h1>Welcome to My Github Account!</h1>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=abhijeetpawar1234&color=blueviolet&style=flat-square)](https://github.com/abhijeetpawar1234)
+
+
 [![Spotify](https://img.shields.io/badge/-Spotify-1ED760?style=for-the-badge&labelColor=black&logo=spotify&logoColor=1ED760)](https://open.spotify.com/user/fraekyabhijeet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeetpawar73)
 [![GitHub](https://img.shields.io/badge/GitHub-191717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhijeetpawar1234)
