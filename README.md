@@ -1,81 +1,50 @@
-# abhijeetpawar
-# 👋 Hi, I'm Abhijeet Pawar
+# Welcome to My GitHub Profile! 👋
 
-### 💻 Developer | Python | Java | Full Stack | Data Science
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)](https://github.com/YOUR_GITHUB_USERNAME)
 
-I'm a Computer Engineering student passionate about building
-useful software, learning new technologies, and solving problems.
-
----
-
-## 🚀 About Me
-
-- 🎓 Computer Engineering Student
-- 💻 Interested in Full Stack Development
-- 🐍 Learning Python & Data Science
-- ☕ Working with Java
-- 📊 Interested in FinTech
-- 🌱 Currently improving my DSA & development skills
-- ⚡ Always learning something new
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-191717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Web Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
-
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- 🎓 Software Engineering Student
+- 🔭 I'm currently working on personal projects
+- 🌱 I'm currently learning full-stack development
+- 💬 Ask me about anything tech-related
+- 📫 Reach me at: **your.email@gmail.com**
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ I Work With
 
-| Project | Technology |
-|---|---|
-| 🏦 Electricity Billing System | Java • JDBC • MySQL |
-| 🌐 Tourism Management System | PHP • MySQL |
-| 🎬 Netflix Clone | HTML • CSS • JavaScript |
-| 📊 Data Science Projects | Python • Pandas • ML |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhijeetpawar1234&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetpawar1234&theme=tokyonight&hide_border=true" />
-
-</div>
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/-Python-4B77BE?style=for-the-badge&labelColor=black&logo=python&logoColor=4B77BE)](https://www.python.org/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://nodejs.org/en/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](https://git-scm.com/)
+[![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
 
 ---
 
-## 🌐 Connect With Me
+## 📊 My Stats
 
-<p align="left">
+![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=radical&show_icons=true&hide_border=true)
 
-<a href="https://github.com/abhijeetpawar1234">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical&layout=compact&hide_border=true)
 
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
 
 ---
 
-### 💭 "Keep learning. Keep building. Keep growing."
+## 🏆 GitHub Trophies
 
-⭐ Thanks for visiting my profile!
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1)](https://github.com/YOUR_GITHUB_USERNAME)
+
+---
+
+*⭐ If you like my projects, give them a star!*
