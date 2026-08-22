@@ -8,7 +8,7 @@
 [![Spotify](https://img.shields.io/badge/-Spotify-1ED760?style=for-the-badge&labelColor=black&logo=spotify&logoColor=1ED760)](https://open.spotify.com/user/fraekyabhijeet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeetpawar73)
 [![GitHub](https://img.shields.io/badge/GitHub-191717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhijeetpawar1234)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-six-plum-91.vercel.app/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=black&logo=instagram&logoColor=E4405F)](https://instagram.com/freakyabhijeet)
 
 <h1>I Work With;</h1>
